@@ -198,8 +198,6 @@ libs_export/
 */.DS_Store
 Products/
 
-node_modules
-*/node_modules
 yarn.lock
 bundles
 yarn-error.log
