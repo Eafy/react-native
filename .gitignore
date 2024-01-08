@@ -81,3 +81,6 @@ proguard/
 android/*/.project
 android/.project
 secring.gpg
+
+.DS_Store
+*/.DS_Store
