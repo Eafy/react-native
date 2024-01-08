@@ -63,10 +63,6 @@ proguard/
 */unused.txt
 */mapping.txt
 
-
-# Android Studio captures folder
-captures/
-
 # IntelliJ
 *.iml
 .idea/
@@ -79,21 +75,7 @@ captures/
 # Android Studio 3 in .gitignore file.
 .idea/caches
 .idea/modules.xml
-# Comment next line if keeping position of elements in Navigation Editor is relevant for you
-.idea/navEditor.xml
 
-# External native build folder generated in Android Studio 2.2 and later
-.externalNativeBuild
-.cxx/
-
-# Other
-libs_export/
-.DS_Store
-*/.DS_Store
-Products/
-
-bundles
-yarn-error.log
 *.jsbundle
 .history/
 android/*/.project
